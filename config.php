@@ -4,7 +4,7 @@ define('TELEGRAM_BOT_TOKEN', '8403464105:AAHqlFSQuI_x-ZUBtX2h88bzDnWiZsCE4U8'); 
 define('TELEGRAM_CHAT_ID', '1640896393');      // GANTI DENGAN CHAT ID KAMU
 
 // Path direktori monitoring (ABSOLUTE)
-define('MONITORING_PATH', '/home/chiacundippal/monitoring');
+define('MONITORING_PATH', '	/home/atmlink.id/monitor');
 
 // Log file
 define('LOG_FILE', MONITORING_PATH . '/activity_log.txt');
