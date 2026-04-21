@@ -1,7 +1,7 @@
 <?php
 // Konfigurasi Telegram
-define('TELEGRAM_BOT_TOKEN', 'YOUR_BOT_TOKEN_HERE');  // GANTI DENGAN TOKEN BOT KAMU
-define('TELEGRAM_CHAT_ID', 'YOUR_CHAT_ID_HERE');      // GANTI DENGAN CHAT ID KAMU
+define('TELEGRAM_BOT_TOKEN', '8403464105:AAHqlFSQuI_x-ZUBtX2h88bzDnWiZsCE4U8');  // GANTI DENGAN TOKEN BOT KAMU
+define('TELEGRAM_CHAT_ID', '1640896393');      // GANTI DENGAN CHAT ID KAMU
 
 // Path direktori monitoring (ABSOLUTE)
 define('MONITORING_PATH', '/home/chiacundippal/monitoring');
