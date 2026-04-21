@@ -3,7 +3,7 @@
 // Cara include: require_once '/home/chiacundippal/monitoring/autoload.php';
 
 // Path absolut ke direktori monitoring
-define('MONITORING_PATH', '/home/chiacundippal/monitoring');
+define('MONITORING_PATH', '/home/atmlink.id/monitor');
 
 // Load konfigurasi
 require_once MONITORING_PATH . '/config.php';
